@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergey Ovchinnikow</h1>
-<h3 align="center">An android developer from Russia</h3>
-
+![MasterHead](https://raw.githubusercontent.com/Yotfr/Yotfr/main/header.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotfr&label=Profile%20views&color=0e75b6&style=flat" alt="yotfr" /> </p>
 
 - 📫 How to reach me **yotfr73@gmail.com**
