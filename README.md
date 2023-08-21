@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Yotfr/Yotfr/main/header.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yotfr&label=Profile%20views&color=0e75b6&style=flat" alt="yotfr" /> </p>
 
 - 📫 How to reach me **yotfr73@gmail.com**
